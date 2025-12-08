@@ -29,7 +29,7 @@
 ## Leetcode
 
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/?username=Vernon_Roche&theme=dark" alt="">
+  <img src="https://leetcode.card.workers.dev/?username=Igor_Zalivako&theme=dark" alt="">
 </div>
 
 ## 🔥 Statistics
