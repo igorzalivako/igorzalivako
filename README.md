@@ -26,6 +26,12 @@
 - **Data Structures**: Lists, trees, hash tables, queues
 - **Math**: Discrete math, linear algebra, probability theory, cryptography basics
 
+## Leetcode
+
+<div>
+  <img src="https://leetcode.card.workers.dev/?username=username&theme=dark" alt="">
+</div>
+
 ## 🔥 Statistics
 
 <div align="center">
