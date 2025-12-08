@@ -26,10 +26,16 @@
 - **Data Structures**: Lists, trees, hash tables, queues
 - **Math**: Discrete math, linear algebra, probability theory, cryptography basics
 
-## Leetcode
+## 🏆 __**LeetCode Stats**__
 
 <div align="center">
-  <img src="https://leetcode.card.workers.dev/?username=Igor_Zalivako&theme=dark" alt="">
+
+<a href="https://leetcode.com/u/Vernon_Roche/">
+  <picture>
+      <source srcset="https://leetcard.jacoblin.cool/Vernon_Roche?theme=wtf" media="(prefers-color-scheme: light)">
+      <img src="https://leetcard.jacoblin.cool/Vernon_Roche?theme=transparent" alt="leet-code-stats">
+  </picture>
+</a>
 </div>
 
 ## 🔥 Statistics
