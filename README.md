@@ -30,10 +30,10 @@
 
 <div align="center">
 
-<a href="https://leetcode.com/u/Vernon_Roche/">
+<a href="https://leetcode.com/u/igorzalivako/">
   <picture>
-      <source srcset="https://leetcard.jacoblin.cool/Vernon_Roche?theme=wtf" media="(prefers-color-scheme: light)">
-      <img src="https://leetcard.jacoblin.cool/Vernon_Roche?theme=transparent" alt="leet-code-stats">
+      <source srcset="https://leetcard.jacoblin.cool/igorzalivako?theme=wtf" media="(prefers-color-scheme: light)">
+      <img src="https://leetcard.jacoblin.cool/igorzalivako?theme=transparent" alt="leet-code-stats">
   </picture>
 </a>
 </div>
