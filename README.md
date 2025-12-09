@@ -41,7 +41,7 @@
 ## 🔥 Statistics
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Vernon-Roche&theme=github_dark" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Vernon-Roche&theme=github_dark" alt=""/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Vernon-Roche&theme=github_dark" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=igorzalivako&theme=github_dark" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=igorzalivako&theme=github_dark" alt=""/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=igorzalivako&theme=github_dark" alt=""/>
 </div>
