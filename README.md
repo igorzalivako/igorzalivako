@@ -12,7 +12,6 @@
 ## 👩‍💻 About me
 - 🎓 3rd-year Computer Systems & Networks student at BSUIR
 - 📚 Always ready to learn something new
-- 🔧 Currently learning: React
 - 🌍 I speak English
 
 ## 🛠 Languages & Tools
