@@ -10,7 +10,7 @@
 # Hi there 👋
 
 ## 👩‍💻 About me
-- 🎓 3rd-year Computer Systems & Networks student at BSUIR
+- 🎓 4rd-year Computer Systems & Networks student at BSUIR
 - 📚 Always ready to learn something new
 - 🌍 I speak English
 
